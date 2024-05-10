@@ -45,5 +45,10 @@ namespace Lab3_Socket
             bai6.ShowDialog();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Bai4 bai4 = new Bai4();
+            bai4.ShowDialog();
+        }
     }
 }

@@ -83,8 +83,9 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(247, 33);
             this.button1.TabIndex = 4;
-            this.button1.Text = "Bài 3 :Nhận và gửi qua TCP";
+            this.button1.Text = "Bài 4: Rạp phim";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // btnBai5
             // 
