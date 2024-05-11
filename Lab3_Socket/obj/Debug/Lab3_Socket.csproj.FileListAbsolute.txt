@@ -120,3 +120,38 @@ C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\o
 C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Soc.3E2DF3D7.Up2Date
 C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.exe
 C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.pdb
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\Lab3_Socket.exe.config
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\Lab3_Socket.exe
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\Lab3_Socket.pdb
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\EntityFramework.dll
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\EntityFramework.SqlServer.dll
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\System.Data.SQLite.dll
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\System.Data.SQLite.EF6.dll
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\System.Data.SQLite.Linq.dll
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\EntityFramework.xml
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\EntityFramework.SqlServer.xml
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\System.Data.SQLite.xml
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.csproj.AssemblyReference.cache
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai1.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai2.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai3.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai4.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai4_client.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai4_server.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai5.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai5Client.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai5Server.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai6.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai6Client.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai6Server.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Form1.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Properties.Resources.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.TCPClient.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.TCPServer.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.UDPClient.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.UDP_Server.resources
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.csproj.GenerateResource.cache
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.csproj.CoreCompileInputs.cache
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.csproj.CopyComplete
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.exe
+D:\NT106O23\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.pdb
