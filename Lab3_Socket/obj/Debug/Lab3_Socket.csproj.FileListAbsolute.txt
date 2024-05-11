@@ -85,3 +85,38 @@ D:\HK2_2024\laptrinhmangcanban\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_S
 D:\HK2_2024\laptrinhmangcanban\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Soc.3E2DF3D7.Up2Date
 D:\HK2_2024\laptrinhmangcanban\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.exe
 D:\HK2_2024\laptrinhmangcanban\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.pdb
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\Lab3_Socket.exe.config
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\Lab3_Socket.exe
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\Lab3_Socket.pdb
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\EntityFramework.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\System.Data.SQLite.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\EntityFramework.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\bin\Debug\System.Data.SQLite.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai1.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai2.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai3.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai4.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai4_client.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai4_server.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai5.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai5Client.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai5Server.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai6.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai6Client.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Bai6Server.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.TCPClient.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.TCPServer.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.UDPClient.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.UDP_Server.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Soc.3E2DF3D7.Up2Date
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.exe
+C:\Users\nguye\OneDrive\Máy tính\New folder\NT106O23_Lab3_Socket\Lab3_Socket\obj\Debug\Lab3_Socket.pdb

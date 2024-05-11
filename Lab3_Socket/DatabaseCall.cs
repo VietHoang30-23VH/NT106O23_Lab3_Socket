@@ -13,7 +13,7 @@ namespace _DatabaseCall
         private string connectionString;
         public DatabaseCall()
         {
-            connectionString = @"Data Source=D:\HK2_2024\laptrinhmangcanban\NT106O23_Lab3_Socket\Database.db;Version=3;";
+            connectionString = "Data Source=Database.db;Version=3;";
             connection = new SQLiteConnection(connectionString);
         }
         public void OpenConnection()

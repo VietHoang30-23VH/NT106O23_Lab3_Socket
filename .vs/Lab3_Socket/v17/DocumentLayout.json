@@ -1,58 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\",
+  "WorkspaceRootPath": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\lab3_socket\\databasecall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\databasecall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\new folder\\nt106o23_lab3_socket\\lab3_socket\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\lab3_socket\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\lab3_socket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\lab3_socket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\lab3_socket\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\bai4_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\lab3_socket\\bai4_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\bai4_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\bai4_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\lab3_socket\\bai4_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\bai4_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\bai4_server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\lab3_socket\\bai4_server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\bai4_server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\bai4_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\lab3_socket\\bai4_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\bai4_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\bai4_client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\lab3_socket\\bai4_client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\bai4_client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\bai4_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\lab3_socket\\bai4_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\bai4_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\bai4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\lab3_socket\\bai4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\bai4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|d:\\hk2_2024\\laptrinhmangcanban\\nt106o23_lab3_socket\\lab3_socket\\databasecall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5410D0FE-4F50-4DDB-BF75-CE33E290682B}|Lab3_Socket\\Lab3_Socket.csproj|solutionrelative:lab3_socket\\databasecall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,62 +86,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Form1.cs",
-              "RelativeDocumentMoniker": "Lab3_Socket\\Form1.cs",
-              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Form1.cs",
-              "RelativeToolTip": "Lab3_Socket\\Form1.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAYwCUAAAAjAAAA",
+              "DocumentIndex": 8,
+              "Title": "Bai4_server.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_server.Designer.cs",
+              "RelativeDocumentMoniker": "Lab3_Socket\\Bai4_server.Designer.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_server.Designer.cs",
+              "RelativeToolTip": "Lab3_Socket\\Bai4_server.Designer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCkAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:36:42.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T09:35:22.373Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Bai4_server.Designer.cs",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_server.Designer.cs",
-              "RelativeDocumentMoniker": "Lab3_Socket\\Bai4_server.Designer.cs",
-              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_server.Designer.cs",
-              "RelativeToolTip": "Lab3_Socket\\Bai4_server.Designer.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAowCkAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:35:22.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Bai4_server.cs [Design]",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_server.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_server.cs",
               "RelativeDocumentMoniker": "Lab3_Socket\\Bai4_server.cs",
               "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_server.cs [Design]",
-              "RelativeToolTip": "Lab3_Socket\\Bai4_server.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:35:04.882Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-10T09:35:04.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Bai4_client.cs",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_client.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_client.cs",
               "RelativeDocumentMoniker": "Lab3_Socket\\Bai4_client.cs",
-              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_client.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_client.cs",
               "RelativeToolTip": "Lab3_Socket\\Bai4_client.cs",
               "ViewState": "AQIAAJsAAAAAAAAAAAAuwKsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:33:40.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T09:33:40.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bai4.cs [Design]",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4.cs",
               "RelativeDocumentMoniker": "Lab3_Socket\\Bai4.cs",
-              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4.cs [Design]",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4.cs [Design]",
               "RelativeToolTip": "Lab3_Socket\\Bai4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T09:31:12.312Z",
@@ -149,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Bai4.cs",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4.cs",
               "RelativeDocumentMoniker": "Lab3_Socket\\Bai4.cs",
-              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4.cs",
               "RelativeToolTip": "Lab3_Socket\\Bai4.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,91 +145,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Bai4_server.cs",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_server.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_server.cs",
               "RelativeDocumentMoniker": "Lab3_Socket\\Bai4_server.cs",
-              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_server.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_server.cs",
               "RelativeToolTip": "Lab3_Socket\\Bai4_server.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:35:48.989Z",
+              "WhenOpened": "2024-05-10T09:35:48.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseCall.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\DatabaseCall.cs",
+              "RelativeDocumentMoniker": "Lab3_Socket\\DatabaseCall.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\DatabaseCall.cs",
+              "RelativeToolTip": "Lab3_Socket\\DatabaseCall.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:29:39.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Form1.cs",
               "RelativeDocumentMoniker": "Lab3_Socket\\Form1.cs",
-              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Form1.cs [Design]",
-              "RelativeToolTip": "Lab3_Socket\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Form1.cs",
+              "RelativeToolTip": "Lab3_Socket\\Form1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwCUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:36:27.261Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-10T09:36:42.855Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Bai1.cs [Design]",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai1.cs",
-              "RelativeDocumentMoniker": "Lab3_Socket\\Bai1.cs",
-              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai1.cs [Design]",
-              "RelativeToolTip": "Lab3_Socket\\Bai1.cs [Design]",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3_Socket\\Form1.cs",
+              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:31:14.573Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-10T09:36:27.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Bai4_client.Designer.cs",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_client.Designer.cs",
-              "RelativeDocumentMoniker": "Lab3_Socket\\Bai4_client.Designer.cs",
-              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_client.Designer.cs",
-              "RelativeToolTip": "Lab3_Socket\\Bai4_client.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA9AAAA",
+              "DocumentIndex": 5,
+              "Title": "Bai1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai1.cs",
+              "RelativeDocumentMoniker": "Lab3_Socket\\Bai1.cs",
+              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:33:43.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T09:31:14.573Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Bai4_client.cs [Design]",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_client.cs",
-              "RelativeDocumentMoniker": "Lab3_Socket\\Bai4_client.cs",
-              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_client.cs [Design]",
-              "RelativeToolTip": "Lab3_Socket\\Bai4_client.cs [Design]",
+              "Title": "Bai4_client.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_client.Designer.cs",
+              "RelativeDocumentMoniker": "Lab3_Socket\\Bai4_client.Designer.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_client.Designer.cs",
+              "RelativeToolTip": "Lab3_Socket\\Bai4_client.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:33:27.071Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-10T09:33:43.483Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Bai4.Designer.cs",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4.Designer.cs",
-              "RelativeDocumentMoniker": "Lab3_Socket\\Bai4.Designer.cs",
-              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4.Designer.cs",
-              "RelativeToolTip": "Lab3_Socket\\Bai4.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Title": "Bai4_client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_client.cs",
+              "RelativeDocumentMoniker": "Lab3_Socket\\Bai4_client.cs",
+              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4_client.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:31:31.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T09:33:27.071Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "DatabaseCall.cs",
-              "DocumentMoniker": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\DatabaseCall.cs",
-              "RelativeDocumentMoniker": "Lab3_Socket\\DatabaseCall.cs",
-              "ToolTip": "D:\\HK2_2024\\laptrinhmangcanban\\NT106O23_Lab3_Socket\\Lab3_Socket\\DatabaseCall.cs",
-              "RelativeToolTip": "Lab3_Socket\\DatabaseCall.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAowBUAAAAiAAAA",
+              "Title": "Bai4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4.Designer.cs",
+              "RelativeDocumentMoniker": "Lab3_Socket\\Bai4.Designer.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder\\NT106O23_Lab3_Socket\\Lab3_Socket\\Bai4.Designer.cs",
+              "RelativeToolTip": "Lab3_Socket\\Bai4.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:29:39.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T09:31:31.191Z"
             }
           ]
         }
